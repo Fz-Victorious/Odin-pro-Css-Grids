@@ -7,3 +7,6 @@ Navigation Drawer: Quick access to all sections of the admin dashboard, includin
 
 # Technologies Used
 HTML5: Structure of the dashboard. CSS3: Styling and responsiveness.
+
+# Screenshot
+![fz-victorious github io_Odin-pro-Css-Grids_ (1)](https://github.com/Fz-Victorious/Odin-pro-Css-Grids/assets/100221567/352868ec-9d5c-4782-9bae-9829d1d0b15c)
